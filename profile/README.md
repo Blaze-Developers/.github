@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## We're a group of Chads making games as a hobby
 <!--
 
 **Here are some ideas to get you started:**
