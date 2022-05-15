@@ -1,6 +1,6 @@
 ## Hi there 👋 We're a group of Chads making games as a hobby
 
-### [Instagram](https://www.instagram.com/blaze_developers/) [YouTube](https://www.youtube.com/UCQ7m73noFtWKEZGlMdfvHIA)
+### [Instagram](https://www.instagram.com/blaze_developers/) ; [YouTube](https://www.youtube.com/UCQ7m73noFtWKEZGlMdfvHIA)
 <!--
 
 **Here are some ideas to get you started:**
