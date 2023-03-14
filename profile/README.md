@@ -1,4 +1,4 @@
-## Hi there 👋 We're a small team who make games as a hobby
+## Hi there 👋 We're a small team and we make games as an hobby
 
 ### [Instagram](https://www.instagram.com/blaze_developers/) ; [YouTube](https://www.youtube.com/UCQ7m73noFtWKEZGlMdfvHIA)
 <!--
