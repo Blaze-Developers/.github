@@ -1,6 +1,6 @@
 ## Hi there 👋 We're a small team and we make games as an hobby
 
-## [@AravinthSS07](https://github.com/AravinthSS07) , [@Kaihatsu-dev](https://github.com/KAIHATSU-dev) 
+## [@AravinthSS07](https://github.com/AravinthSS07) , [@Kaihatsu-dev](https://github.com/KAIHATSU-dev), [@Atharva-Gondhali](https://github.com/Atharva-Gondhali) 
 
 ### [Instagram](https://www.instagram.com/blaze_developers/) ; [YouTube](https://www.youtube.com/@blazedevelopers7688)
 <!--
